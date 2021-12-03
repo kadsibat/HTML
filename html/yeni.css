@@ -1,0 +1,101 @@
+
+body {
+    height: 100vh;
+    
+   
+  }
+ 
+  .container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #header {
+    background-color: black;
+    opacity: 1;
+    border-bottom: 5px solid red;
+    
+  }
+  
+  #header a {
+    color: white;
+    text-decoration: none;
+  }
+  /* text-decoration: none; 
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: underline;
+    text-decoration: underline overline;
+  */
+  
+  #header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  /* flex-start (default): items are packed toward the start line
+flex-end: items are packed toward to end line
+center: items are centered along the line
+space-between: items are evenly distributed in the line; first item is on the start line, last item on the end line
+space-around: items are evenly distributed in the line with equal space around them
+space-evenly: items are distributed so that the spacing between any two adjacent alignment subjects, before the first alignment subject, and after the last alignment subject is the samet */
+  
+  #header li {
+    display: inline;
+    padding: 0 20px;
+    font-family: "Audiowide", sans-serif;
+  }
+  #branding {
+    color: white;
+    font-family: "Audiowide", sans-serif;
+  }
+  
+  #spanColor {
+    color: #ff0000;
+  }
+  #main {
+    background-image: linear-gradient(rgba(15, 6, 6, 0.7), rgba(20, 4, 4, 0.7)),
+      url('./banner.jpg');
+    background-size: cover;
+    text-align: center;
+    color: white;
+    height: 100vh;
+   
+  }
+  
+  #main h1 {
+    font-size: 60px;
+    margin: 200px 0 10px;
+    font-family: "Audiowide", sans-serif;
+  }
+  
+  #main p {
+    font-size: 30px;
+    font-family: "Audiowide", sans-serif;
+  }
+  
+  #about, #contact {
+    background-color: black;
+    color: white;
+  }
+  #about h2, #contact h2 {
+    font-size: 30px;
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+    color: red;
+  }
+  
+  #about p, #contact p {
+    font-size: 20px;
+    font-family: "Arial", sans-serif;
+    padding: 0 10px;
+  }
+  /* img {
+    opacity: 0.8;
+  } */

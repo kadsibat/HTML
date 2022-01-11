@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Clarusway Programs</h1>
+    <ol>
+        <li>
+            <h3>AWS&DevOps</h3>
+        </li>
+            <p>Enhance your tech skills an <u> incease your ability</u> to delivery applications quicly by learning sevices
+            an <b>AWS </b> such as</p>
+            <ul>
+                <li> contect </li>
+                <li>delivery</li>
+                <li>delivery</li>
+                <li> database storage</li>
+            </ul>
+            <p>and much more.</p>
+        <hr>
+        <li><h3>Full Stack Developer</h3></li> 
+            <p><mark>A Full Stack Developer</mark> is a and application developer who is well equipped to be on both</p>
+            <ul>
+                <li>Front-End (cleint-side)</li>
+                    <ul>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JS</li>
+                        <li> <s> Python </s></li>
+                    </ul>
+                <li>Back-End (cleint-side)</li>
+                     <ul>
+                        <li>The Language <sup> Python</sup> </li>
+                        <li>The Language <sub>Django</sub> </li>
+                        <li>The Language <sub> SQLite</sub> </li>
+                    </ul>
+            </ul>
+            <p>portions of web applications.</p>
+    </ol>
+
+</body>
+
+</html>
